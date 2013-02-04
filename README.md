@@ -50,3 +50,11 @@ Author
 
 + http://twitter.com/vsubotic
 + http://github.com/vsubotic
+
+
+Copyright and license
+-------
+Copyright (c) 2012 Magenthon (http://magenthon.com)
+
+Licensed under the Academic Free License 3.0
++ http://opensource.org/licenses/AFL-3.0
