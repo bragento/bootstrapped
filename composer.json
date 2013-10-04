@@ -1,0 +1,19 @@
+{
+    "name": " bragento/bootstrapped",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+	  "version":"1.0.0.1",
+    "description": "Magento Responsive theme aka BOOTSTRAPPED is implementation of code from twitter brothers and Magento e-Commerce platform.",
+	  "website": "https://github.com/vsubotic/bootstrapped.git",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "require-dev": {        
+    },
+    "authors":[
+        {
+            "name":"Vedran Subotic"
+        }
+    ]
+	
+}
